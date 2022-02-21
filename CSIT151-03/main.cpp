@@ -35,6 +35,8 @@ int main()
     i=n;
     cout<<endl;
     
+    
+    
     while(i>0)
     {
         sum=sum+i;
